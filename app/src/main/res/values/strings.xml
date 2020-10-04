@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pikabu</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_all_posts">Все посты</string>
+    <string name="tab_saved_posts">Сохраненные посты</string>
+    <string name="error">Ошибка</string>
+    <string name="error_connection">Отсутсвует соединение</string>
+    <string name="retry">Повторить</string>
+    <string name="error_something_went_wrong">Что-то пошло не так...</string>
+    <string name="empty_list">Список пуст</string>
+    <string name="empty_list_message">Сохраните статьи из списка всех статей</string>
+    <string name="save">Сохранить</string>
+    <string name="remove_from_saved">Убрать из сохраненного</string>
+</resources>
